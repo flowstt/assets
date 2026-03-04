@@ -1,4 +1,4 @@
-FlowSTT is a free, privacy-first speech to text application that runs on your computer.
+FlowSTT is a free, privacy-first speech to text application that runs locally.
 
 No subscriptions, no cloud services and no sign ups required.
 

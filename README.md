@@ -12,3 +12,7 @@ Assets in this repository are referenced by the other FlowSTT subprojects (deskt
 - Prefer SVG for icons and logos where possible.
 - Optimize raster images before committing (compress PNGs, use appropriate JPEG quality).
 - Do not store generated or build-output files here.
+
+---
+
+Copyright 2026 KMX Consulting LLC
